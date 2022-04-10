@@ -27,7 +27,7 @@
 
 The Freeside Student Resources list consists of multiple categories of professional and academic resources which are aimed at aiding University of Hull students to gain further knowledge.
 
-List originally comprised by [@closebracket](https://github.com/closebracket), visit his website [here](https://love.edwardcharl.es).
+List originally comprised by [@closebracket](https://github.com/closebracket)
 
 ## Contributing <a name="contributing"></a>
 
