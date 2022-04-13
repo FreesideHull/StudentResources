@@ -77,8 +77,8 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 7. [#HullCSS Discord](https://hullcss.org/discord).
 8. [Hull Gaming Society Discord](https://discord.gg/Rm5gepFQWA).
 9. [Hull Robotics Society Discord](https://discord.gg/pYP5kqE).
-10. [Department of Computer Science and Technology Twitter](https://twitter.com/HullCompSci).
-11. [University of Hull Hub](https://discord.gg/WsEy47d9j8)
+10. [University of Hull Unofficial Discord Server](https://discord.gg/PPrvttzFSW)
+11. [Department of Computer Science and Technology Twitter](https://twitter.com/HullCompSci).
 12. [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
 13. [LaTeX Dissertation / Report Templates](https://git.starbeamrainbowlabs.com/Demos/latex-templates) (unofficial edit of an official template)
 14. [Hull University Employability Award](https://hullawards.hull.ac.uk/) - Get an award from the university for extracurricular activities.
