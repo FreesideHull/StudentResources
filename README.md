@@ -15,7 +15,7 @@
    - [Ethics](Ethics_Law_Professionalism.md#ethics)
    - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
    - [Law](Ethics_Law_Professionalism.md#law)
-9. [Learning Resources](#education)
+9. [Educational Resources](#education)
 10. [Linux Distributions](#linux)
 11. [Electronics](Electronics.md)
 12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
@@ -81,6 +81,7 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 11. [University of Hull Hub](https://discord.gg/WsEy47d9j8)
 12. [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
 13. [LaTeX Dissertation / Report Templates](https://git.starbeamrainbowlabs.com/Demos/latex-templates) (unofficial edit of an official template)
+14. [Hull University Employability Award](https://hullawards.hull.ac.uk/) - Get an award from the university for extracurricular activities.
 
 ## Hull Related <a name="hull"></a>
 
@@ -165,6 +166,9 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 24. [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
 25. [Visualisation and Audibilization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/) - Visualize different sorting algorithms and listen the sound of sorting.
 26. [Sentdex Youtube Channel](https://www.youtube.com/c/sentdex) - Youtube channel to learn Machine learning, Deep Learning, Natural Language Processing and python.
+27. [Forage](https://www.theforage.com/) - Offers 5-6 hours virtual work experience programs.
+28. [Udemy](https://www.udemy.com/courses/free/) - Udemy free courses to help learn a range of skills (Offers paid courses).
+29. [Coursera](https://www.coursera.org/courses?query=free) - Coursera free courses to help learn a range of skills (Offers paid courses).
 
 ## Linux Distributions <a name="linux"></a>
 
