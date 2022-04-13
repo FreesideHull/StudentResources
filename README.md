@@ -117,6 +117,7 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 8. [The Things Network](https://www.thethingsnetwork.org/)
 9. [Programmable Web APIs](https://www.programmableweb.com/)
 10. [A list of publically available APIs](https://github.com/public-apis/public-apis)
+11. [GitHub Gist](https://gist.github.com/) - For sharing code quicky and privately.
 
 ## Software <a name="software"></a>
 
