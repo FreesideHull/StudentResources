@@ -170,6 +170,7 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 26. [Sentdex Youtube Channel](https://www.youtube.com/c/sentdex) - Youtube channel to learn Machine learning, Deep Learning, Natural Language Processing and python.
 27. [Udemy](https://www.udemy.com/courses/free/) - Udemy free courses to help learn a range of skills (Offers paid courses).
 28. [Coursera](https://www.coursera.org/courses?query=free) - Coursera free courses to help learn a range of skills (Offers paid courses).
+29. [Regexr](https://regexr.com/) - A Regex helper.
 
 ## Linux Distributions <a name="linux"></a>
 
