@@ -171,6 +171,10 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 27. [Udemy](https://www.udemy.com/courses/free/) - Udemy free courses to help learn a range of skills (Offers paid courses).
 28. [Coursera](https://www.coursera.org/courses?query=free) - Coursera free courses to help learn a range of skills (Offers paid courses).
 29. [Regexr](https://regexr.com/) - A Regex helper.
+39. [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+40. [Learn Git Branching](https://learngitbranching.js.org/) - A visual Git tutorial.
+41. [ffmpeg Guide](https://gist.github.com/protrolium/e0dbd4bb0f1a396fcb55) - Some useful tricks for `ffmpeg`.
+42. [SAG](https://tldp.org/LDP/sag/sag.pdf) - The Linux System Administrator's Guide.
 
 ## Linux Distributions <a name="linux"></a>
 
