@@ -184,7 +184,7 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 30. [Learn Git Branching](https://learngitbranching.js.org/) - A visual Git tutorial.
 31. [ffmpeg Guide](https://gist.github.com/protrolium/e0dbd4bb0f1a396fcb55) - Some useful tricks for `ffmpeg`.
 32. [SAG](https://tldp.org/LDP/sag/sag.pdf) - The Linux System Administrator's Guide.
-
+33. [Regexone](https://regexone.com/) - A Regex guide.
 ## Linux Distributions <a name="linux"></a>
 
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
