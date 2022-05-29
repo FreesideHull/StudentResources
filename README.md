@@ -10,6 +10,7 @@
 4. [Business/Career](#business)
 5. [Services](#services)
 6. [Software](#software)
+6. [tools](#tools)
 7. [Programming](Programming.md)
 8. [Ethics, Law & Professionalism](Ethics_Law_Professionalism.md)
    - [Ethics](Ethics_Law_Professionalism.md#ethics)
@@ -137,6 +138,15 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 11. [Katakoda](https://www.katacoda.com/) - Katacoda provides a platform to build live interactive demo and training environments.
 12. [CodeSandbox](https://codesandbox.io/) - CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.
 
+## Tools <a name="tools"></a>
+
+1. [BuiltWith](https://builtwith.com/) - Find out what websites are built with.
+2. [Regexr](https://regexr.com/) - A Regex helper. 
+3. [delim.co](https://delim.co/) - Quickly convert column data to delimited data.
+4. [GitHub Command Line](https://cli.github.com/) - Do common GitHub tasks from the command line.
+5. [Privatebin](https://privatebin.net/) - Open-source pastebin client that can also be self-hosted.
+6. [Ouroboros](https://github.com/pyouroboros/ouroboros) - Keep those docker containers up to date.
+
 ## Educational Resources <a name="education"></a>
 
 1. [Math Talks to Blow Your Mind Playlist](https://www.youtube.com/playlist?list=PLOGi5-fAu8bEIw_xkj1FgKr7QY_Sahswy)
@@ -170,8 +180,11 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 26. [Sentdex Youtube Channel](https://www.youtube.com/c/sentdex) - Youtube channel to learn Machine learning, Deep Learning, Natural Language Processing and python.
 27. [Udemy](https://www.udemy.com/courses/free/) - Udemy free courses to help learn a range of skills (Offers paid courses).
 28. [Coursera](https://www.coursera.org/courses?query=free) - Coursera free courses to help learn a range of skills (Offers paid courses).
-29. [Regexr](https://regexr.com/) - A Regex helper.
-
+29. [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+30. [Learn Git Branching](https://learngitbranching.js.org/) - A visual Git tutorial.
+31. [ffmpeg Guide](https://gist.github.com/protrolium/e0dbd4bb0f1a396fcb55) - Some useful tricks for `ffmpeg`.
+32. [SAG](https://tldp.org/LDP/sag/sag.pdf) - The Linux System Administrator's Guide.
+33. [Regexone](https://regexone.com/) - A Regex guide.
 ## Linux Distributions <a name="linux"></a>
 
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
