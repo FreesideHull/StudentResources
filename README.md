@@ -146,6 +146,7 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 4. [GitHub Command Line](https://cli.github.com/) - Do common GitHub tasks from the command line.
 5. [Privatebin](https://privatebin.net/) - Open-source pastebin client that can also be self-hosted.
 6. [Ouroboros](https://github.com/pyouroboros/ouroboros) - Keep those docker containers up to date.
+7. [TLDR Pages](https://tldr.sh/) - Simplified man pages.
 
 ## Educational Resources <a name="education"></a>
 
