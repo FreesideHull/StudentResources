@@ -146,6 +146,8 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 4. [GitHub Command Line](https://cli.github.com/) - Do common GitHub tasks from the command line.
 5. [Privatebin](https://privatebin.net/) - Open-source pastebin client that can also be self-hosted.
 6. [Ouroboros](https://github.com/pyouroboros/ouroboros) - Keep those docker containers up to date.
+7. [TLDR Pages](https://tldr.sh/) - Simplified man pages.
+8. [Explain Command](https://www.mankier.com/explain) - A quick way to see what commands and their options do before running them.
 
 ## Educational Resources <a name="education"></a>
 
@@ -185,6 +187,8 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 31. [ffmpeg Guide](https://gist.github.com/protrolium/e0dbd4bb0f1a396fcb55) - Some useful tricks for `ffmpeg`.
 32. [SAG](https://tldp.org/LDP/sag/sag.pdf) - The Linux System Administrator's Guide.
 33. [Regexone](https://regexone.com/) - A Regex guide.
+34. [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Learn the command line (specifically Bash).
+
 ## Linux Distributions <a name="linux"></a>
 
 1. [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
