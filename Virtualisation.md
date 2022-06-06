@@ -74,8 +74,8 @@ Type 2
 
 ## Andrew Hancock, Department of Computer Science & Technology - Systems <a name="andrewhancock"></a>
 Andrew is the VMware Specialist in Computer Science & Technology, responsible for the VMware architecture, watering & feeding the Computer Science & Technology VMware vSphere infrastructure. (based on VMware vSphere). He also has a long list of VMware and Virtualisations articles, a passionate VMware Technical Architect, and VMware vExpert Pro. His articles are reproduced here for your reading pleasure. If you want to discuss anything VMware, then ask him! He will only be too happy to oblige. All this software is FREE here - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
-1. [How to Backup an ESXi installation on an USB Flash Drive or SD card for security or redundancy.](http://vexpert.me/BackupESXi)
-2. [VMware ESX/ESXi Backup Guide](http://vexpert.me/BackupGuide)
+1. [How to Backup an ESXi installation on an USB Flash Drive or SD card for security or redundancy.](https://www.experts-exchange.com/A_5409.html)
+2. [VMware ESX/ESXi Backup Guide](https://www.experts-exchange.com/A_5414.html)
 3. [HOW TO: Improve the transfer rate of a Physical to Virtual (P2V) Virtual to Virtual Conversion (V2V) using VMware vCenter Converter Standalone 5.0](https://www.experts-exchange.com/articles/9131/HOW-TO-Improve-the-transfer-rate-of-a-Physical-to-Virtual-P2V-Virtual-to-Virtual-Conversion-V2V-using-VMware-vCenter-Converter-Standalone-5-0.html)
 4. [HOW TO: Enable Jumbo Frames on a VMware vSphere Hypervisor (ESXi 5.0) host server using the VMware vSphere Client](https://www.experts-exchange.com/articles/9132/HOW-TO-Enable-Jumbo-Frames-on-a-VMware-vSphere-Hypervisor-ESXi-5-0-host-server-using-the-VMware-vSphere-Client.html)
 5. [HOW TO: Suppress Configuration Issues and Warnings Alert displayed in Summary status for ESXi 4.1 U2 or ESXi 5.0 after enabling SSH or ESXi Shell](https://www.experts-exchange.com/articles/9151/HOW-TO-Suppress-Configuration-Issues-and-Warnings-Alert-displayed-in-Summary-status-for-ESXi-4-1-U2-or-ESXi-5-0-after-enabling-SSH-or-ESXi-Shell.html)
