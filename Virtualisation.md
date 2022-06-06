@@ -201,12 +201,12 @@ Andrew is the VMware Specialist in Computer Science & Technology, responsible fo
 125. [Part 17: HOW TO: Update VMware ESXi 7.0 GA to ESXi 7.0b direct from VMware.](https://www.experts-exchange.com/articles/34248/HOW-TO-Update-VMware-ESXi-7-0-GA-to-ESXi-7-0b-direct-from-VMware.html)
 126. [Part 18: HOW TO: Update VMware ESXi 7.0 GA to ESXi 7.0bs in 5 easy steps](https://www.experts-exchange.com/articles/34249/HOW-TO-Update-VMware-ESXi-7-0-GA-to-ESXi-7-0bs-in-5-easy-steps.html)
 127. [Part 19: HOW TO: Update VMware ESXi 7.0 GA to ESXi 7.0b in 5 easy steps](https://www.experts-exchange.com/articles/34250/HOW-TO-Update-VMware-ESXi-7-0-GA-to-ESXi-7-0b-in-5-easy-steps.html)
-128. [Part 20: HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) on a Raspberry Pi 4](http://vexpert.me/ESXi-ARM)
+128. [Part 20: HOW TO: Install and Configure VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) on a Raspberry Pi 4](https://www.experts-exchange.com/articles/34931/HOW-TO-Install-and-Configure-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-ARM-on-a-Raspberry-Pi-4.html)
 129. [Part 21: HOW TO: Deploy and Install VMware vSphere vCenter Server 7.0 (VCSA 7.0)](https://www.experts-exchange.com/articles/35011/HOW-TO-Deploy-and-Install-VMware-vSphere-vCenter-Server-7-0-VCSA-7-0.html)
 130. [Part 22: HOW TO: Install and Connect a VMware vCenter Server 7.0 in linked mode.](https://www.experts-exchange.com/articles/35052/HOW-TO-Install-and-Connect-a-VMware-vCenter-Server-7-0-in-linked-mode.html)
-131. [Part 23: HOW TO: BOOT VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) from an iSCSI LUN for the Raspberry Pi 4](http://vexpert.me/iSCSI-BOOT-from-ESXi-ARM)
-132. [Part 24: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a direct from VMware.](http://vexpert.me/1dW)
-133. [Part 25: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a in 5 easy steps](http://vexpert.me/1dX)
+131. [Part 23: HOW TO: BOOT VMware vSphere Hypervisor 7.0 (ESXi 7.0 ARM) from an iSCSI LUN for the Raspberry Pi 4](https://www.experts-exchange.com/articles/35132/HOW-TO-BOOT-VMware-vSphere-Hypervisor-7-0-ESXi-7-0-ARM-from-an-iSCSI-LUN-for-the-Raspberry-Pi-4.html)
+132. [Part 24: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a direct from VMware.](https://www.experts-exchange.com/videos/79032/HOW-TO-Update-VMware-ESXi-7-0U2-to-ESXi-7-0U2a-direct-from-VMware.html)
+133. [Part 25: HOW TO: Update VMware ESXi 7.0U2 to ESXi 7.0U2a in 5 easy steps.](https://www.experts-exchange.com/articles/36038/HOW-TO-Update-VMware-ESXi-7-0U2-to-ESXi-7-0U2a-in-5-easy-steps.html)
 
 
 ### Hancock's VMware Half Hour HOW TO Video Series
