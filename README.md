@@ -2,27 +2,22 @@
 
 ## Contents
 
-1. [Introduction](#introduction)
-   - [Contributing](#contributing)
-2. [Hull University Resources](#hulluniversity)
-   - [Student Discount/Free Stuff](#freestuff)
-3. [Hull Resources (Non University)](#hull)
-4. [Business/Career](#business)
-5. [Services](#services)
-6. [Software](#software)
-6. [tools](#tools)
-7. [Programming](Programming.md)
-8. [Ethics, Law & Professionalism](Ethics_Law_Professionalism.md)
-   - [Ethics](Ethics_Law_Professionalism.md#ethics)
-   - [Professionalism & Standards](Ethics_Law_Professionalism.md#standards)
-   - [Law](Ethics_Law_Professionalism.md#law)
-9. [Educational Resources](#education)
-10. [Linux Distributions](#linux)
-11. [Electronics](Electronics.md)
-12. [Hypervisors and virtual machines](Virtualisation.md#virtualisation)
-    - [Andrew Hancock, VMware vExpert](Virtualisation.md#andrewhancock)
-13. [Cyber Security Resources](CyberSecurity.md)
-14. [Other Interesting Stuff](#misc)
+- [Contents](#contents)
+- [Introduction <a name="introduction"></a>](#introduction-)
+- [Contributing <a name="contributing"></a>](#contributing-)
+  - [Help and Support](#help-and-support)
+- [Student Discount / Free stuff <a name="freestuff"></a>](#student-discount--free-stuff-)
+- [Hull University Related <a name="hulluniversity"></a>](#hull-university-related-)
+- [Hull Related <a name="hull"></a>](#hull-related-)
+- [Business / Career <a name="business"></a>](#business--career-)
+- [Services <a name="services"></a>](#services-)
+- [Software <a name="software"></a>](#software-)
+- [Tools <a name="tools"></a>](#tools-)
+- [Educational Resources <a name="education"></a>](#educational-resources-)
+- [Linux Distributions <a name="linux"></a>](#linux-distributions-)
+    - [Supporting learning Linux](#supporting-learning-linux)
+    - [Linux Resources](#linux-resources)
+- [Other interesting stuff <a name="misc"></a>](#other-interesting-stuff-)
 
 ## Introduction <a name="introduction"></a>
 
@@ -37,7 +32,6 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 - Fork the repository, look at the markdown and understand it.
 - Make your changes and double check that nothing is broken.
 - Make a pull request and request a review from the Freeside team.
-
 
 ### Help and Support
 
@@ -62,7 +56,7 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 3. [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html)
 
 > VMware IT Academy is a similar program to the [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/), and allows students to obtain Software Products and Licensing for most of the VMware Products for FREE e.g. VMware Workstation, VMware vSphere, VMware Fusion.
-> If you are a student of The Department of Computer science and Technology you would have been enrolled automatically. However sometimes your information may have "fallen through the cracks!", if so please reach out to me Andy Hancock via http://support.hull.ac.uk and mention Andy Hancock!
+> If you are a student of The Department of Computer science and Technology you would have been enrolled automatically. However sometimes your information may have "fallen through the cracks!", if so please reach out to me Andy Hancock via <http://support.hull.ac.uk> and mention Andy Hancock!
 
 5. [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 6. [Google Workspace for Education](https://edu.google.com/intl/ALL_in/products/workspace-for-education/) Gives students and teachers access to all premium Google Workspace tools. With access to various colaboration and productivity tools, it provides extra cloud storage to all authorised users.
@@ -108,7 +102,6 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 12. [York & Yorkshire Local Enterprise Partnership Linkedin Group](https://www.linkedin.com/groups/4217871/)
 13. [Forage](https://www.theforage.com/) - Offers 5-6 hours virtual work experience programs.
 
-
 ## Services <a name="services"></a>
 
 1. [Migadu.com](https://migadu.com) - Unlimited cheap email for lots of domains.
@@ -141,7 +134,7 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 ## Tools <a name="tools"></a>
 
 1. [BuiltWith](https://builtwith.com/) - Find out what websites are built with.
-2. [Regexr](https://regexr.com/) - A Regex helper. 
+2. [Regexr](https://regexr.com/) - A Regex helper.
 3. [delim.co](https://delim.co/) - Quickly convert column data to delimited data.
 4. [GitHub Command Line](https://cli.github.com/) - Do common GitHub tasks from the command line.
 5. [Privatebin](https://privatebin.net/) - Open-source pastebin client that can also be self-hosted.
@@ -167,27 +160,26 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 11. [CRISP-DM PyData 2015](https://www.youtube.com/watch?v=civLio11SjQ)
 12. [Tackling Imposter Syndrome, a cambridge students perspective](https://youtu.be/Zd7t9vKsiiA).
 13. [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials?primary_filter=popular) - System Administration tutorials from Digital Ocean. Can be followed on any Linux machine.
-14. [Data Science Handbook](https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf)
-15. [The Basics by Tom Scott](https://youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
-16. [How To Build An App: Everything You Didn't Know You Needed To Know](https://youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5)
-17. [Jeff Geerling](https://www.youtube.com/c/JeffGeerling) - YouTube channel with lots of Raspberry Pi projects and tests, along with resources on Kubernetes, Ansible and more.
-18. [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Provides visulation for different data structures and algorithms like sorting, linked lists, hash table etc. Also allows some customizations.
-19. [Semantic Scholar](https://www.semanticscholar.org/) - An artificial-intelligence backed search engine for academic publications.
-20. [arXiv](https://arxiv.org/) - Open-access repository of scientific papers in the fields of mathematics, computer science, quantitative biology, statistics and more.
-21. [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - Collection of bibliographies of scientific literature in computer science from various sources.
-22. [dblp](https://dblp.uni-trier.de/) - Provides open bibliographic information on major computer science journals and proceedings.
-23. [ScienceDirect](https://www.sciencedirect.com) - A large bibliographic database of scientific publications.
-24. [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
-25. [Visualisation and Audibilization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/) - Visualize different sorting algorithms and listen the sound of sorting.
-26. [Sentdex Youtube Channel](https://www.youtube.com/c/sentdex) - Youtube channel to learn Machine learning, Deep Learning, Natural Language Processing and python.
-27. [Udemy](https://www.udemy.com/courses/free/) - Udemy free courses to help learn a range of skills (Offers paid courses).
-28. [Coursera](https://www.coursera.org/courses?query=free) - Coursera free courses to help learn a range of skills (Offers paid courses).
-29. [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
-30. [Learn Git Branching](https://learngitbranching.js.org/) - A visual Git tutorial.
-31. [ffmpeg Guide](https://gist.github.com/protrolium/e0dbd4bb0f1a396fcb55) - Some useful tricks for `ffmpeg`.
-32. [SAG](https://tldp.org/LDP/sag/sag.pdf) - The Linux System Administrator's Guide.
-33. [Regexone](https://regexone.com/) - A Regex guide.
-34. [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Learn the command line (specifically Bash).
+14. [The Basics by Tom Scott](https://youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
+15. [How To Build An App: Everything You Didn't Know You Needed To Know](https://youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5)
+16. [Jeff Geerling](https://www.youtube.com/c/JeffGeerling) - YouTube channel with lots of Raspberry Pi projects and tests, along with resources on Kubernetes, Ansible and more.
+17. [Data Structures and Algorithms Visualiser](https://visualgo.net/en) - Provides visulation for different data structures and algorithms like sorting, linked lists, hash table etc. Also allows some customizations.
+18. [Semantic Scholar](https://www.semanticscholar.org/) - An artificial-intelligence backed search engine for academic publications.
+19. [arXiv](https://arxiv.org/) - Open-access repository of scientific papers in the fields of mathematics, computer science, quantitative biology, statistics and more.
+20. [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - Collection of bibliographies of scientific literature in computer science from various sources.
+21. [dblp](https://dblp.uni-trier.de/) - Provides open bibliographic information on major computer science journals and proceedings.
+22. [ScienceDirect](https://www.sciencedirect.com) - A large bibliographic database of scientific publications.
+23. [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
+24. [Visualisation and Audibilization of Sorting Algorithms](https://panthema.net/2013/sound-of-sorting/) - Visualize different sorting algorithms and listen the sound of sorting.
+25. [Sentdex Youtube Channel](https://www.youtube.com/c/sentdex) - Youtube channel to learn Machine learning, Deep Learning, Natural Language Processing and python.
+26. [Udemy](https://www.udemy.com/courses/free/) - Udemy free courses to help learn a range of skills (Offers paid courses).
+27. [Coursera](https://www.coursera.org/courses?query=free) - Coursera free courses to help learn a range of skills (Offers paid courses).
+28. [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+29. [Learn Git Branching](https://learngitbranching.js.org/) - A visual Git tutorial.
+30. [ffmpeg Guide](https://gist.github.com/protrolium/e0dbd4bb0f1a396fcb55) - Some useful tricks for `ffmpeg`.
+31. [SAG](https://tldp.org/LDP/sag/sag.pdf) - The Linux System Administrator's Guide.
+32. [Regexone](https://regexone.com/) - A Regex guide.
+33. [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Learn the command line (specifically Bash).
 
 ## Linux Distributions <a name="linux"></a>
 
@@ -231,6 +223,6 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 5. [Andrew Hancock talks with Experts Exchange about Career Growth and VMware](https://www.experts-exchange.com/podcasts/5/Career-Growth-and-VMware.html)
 6. [Andrew Hancock talks with Experts Exchange about being an IT Author and British Beekeeper](https://www.experts-exchange.com/podcasts/241/EP-19-Buzz-Words-IT-Author-and-Beekeeper-Andrew-Hancock.html)
 
-Copyright 2021 Freeside. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+Copyright 2021 Freeside. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at <http://www.apache.org/licenses/LICENSE-2.0>
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
