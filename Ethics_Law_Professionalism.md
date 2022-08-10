@@ -44,7 +44,6 @@
 
 ## Professionalism & Standards <a name="standards"></a>
 - [W3](https://www.w3.org/standards/) - Standards for web design and applications, devices, architecture, XML, web services and other technology.
-guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/)
 - [Government overview of Data Protection](https://www.gov.uk/data-protection)
 - [The Chartered Institute for IT](https://www.bcs.org/)
 - [GDPR Compliance Checklist](https://gdprchecklist.io/)
