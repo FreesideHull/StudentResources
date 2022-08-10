@@ -28,7 +28,7 @@
 
 ## Linux Resources
 
-- [Arch Linux Wiki - Permissions](https://wiki.archlinux.org/title/File_permissions_and_attributes)-
+- [Arch Linux Wiki - Permissions](https://wiki.archlinux.org/title/File_permissions_and_attributes)
 - [Arch Linux Docs - SSH](https://wiki.archlinux.org/title/OpenSSH#Installation)
 - [Configure 2FA on SSH](https://ubuntu.com/tutorials/configure-ssh-2fa#1-overview)
 - [Desktop Environments](https://wiki.archlinux.org/title/Desktop_environment)
