@@ -20,13 +20,13 @@
 - [Rescatux](https://www.supergrubdisk.org/rescatux/) - An Debian based os which has utilities to help repair potentially broken Linux or Windows systems as well as boot loaders.
 
 
-#### Supporting learning Linux
+## Supporting learning Linux
 
 - [Ask Ubuntu](https://askubuntu.com/) - Ubuntu Q&A site. Part of Stack Exchange.
 - [Unix & Linux Stack Exchange](https://unix.stackexchange.com/) - For more general Linux-related questions.
 
 
-#### Linux Resources
+## Linux Resources
 
 - [Arch Linux Wiki - Permissions](https://wiki.archlinux.org/title/File_permissions_and_attributes)-
 - [Arch Linux Docs - SSH](https://wiki.archlinux.org/title/OpenSSH#Installation)
