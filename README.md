@@ -24,6 +24,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
   - [Virtualisation](/Pages//Virtualisation.md)
 - [Contributing <a name="contributing"></a>](#contributing-)
 
+
 ## Student Discount / Free stuff <a name="freestuff"></a>
 
 - [Github Student Pack](https://education.github.com/pack).
@@ -35,6 +36,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 
 - [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 - [Google Workspace for Education](https://edu.google.com/intl/ALL_in/products/workspace-for-education/) Gives students and teachers access to all premium Google Workspace tools. With access to various colaboration and productivity tools, it provides extra cloud storage to all authorised users.
+
 
 ## Hull University Related <a name="hulluniversity"></a>
 
@@ -54,6 +56,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Hull University Employability Award](https://hullawards.hull.ac.uk/) - Get an award from the university for extracurricular activities.
 - [Hull University Buddy](https://chrome.google.com/webstore/detail/hull-university-buddy/jnppmhcoifoohipnnhdabhnolnilncbk) - Chrome extension to help students navigate around University resources quicker.
 
+
 ## Hull Related <a name="hull"></a>
 
 - [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
@@ -61,6 +64,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Connected Humber Hardware Meetups](https://www.connectedhumber.org/meetups.html)
 - [Hull Central Library Makerspace](https://www.hcandl.co.uk/libraries/makerspace/about-makerspacehull)
 - [Hull Chamber of Commerce](https://www.hull-humber-chamber.co.uk/)
+
 
 ## Business / Career <a name="business"></a>
 
@@ -78,6 +82,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [York & Yorkshire Local Enterprise Partnership Linkedin Group](https://www.linkedin.com/groups/4217871/)
 - [Forage](https://www.theforage.com/) - Offers 5-6 hours virtual work experience programs.
 
+
 ## Services <a name="services"></a>
 
 - [Migadu.com](https://migadu.com) - Unlimited cheap email for lots of domains.
@@ -91,6 +96,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Programmable Web APIs](https://www.programmableweb.com/)
 - [A list of publically available APIs](https://github.com/public-apis/public-apis)
 - [GitHub Gist](https://gist.github.com/) - For sharing code quicky and privately.
+
 
 ## Software <a name="software"></a>
 
@@ -119,6 +125,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Explain Command](https://www.mankier.com/explain) - A quick way to see what commands and their options do before running them.
 - [RefWorks](https://refworks.proquest.com/) - A reference manager with University of Hull standard support.
 - [Connected Papers](https://www.connectedpapers.com/) - Visualise an academic field and find similiar papers.
+
 
 ## Educational Resources <a name="education"></a>
 
@@ -159,6 +166,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Regexone](https://regexone.com/) - A Regex guide.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Learn the command line (specifically Bash).
 
+
 ## Other interesting stuff <a name="misc"></a>
 
 - [E Foundation](https://e.foundation)
@@ -168,13 +176,16 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Andrew Hancock talks with Experts Exchange about Career Growth and VMware](https://www.experts-exchange.com/podcasts/5/Career-Growth-and-VMware.html)
 - [Andrew Hancock talks with Experts Exchange about being an IT Author and British Beekeeper](https://www.experts-exchange.com/podcasts/241/EP-19-Buzz-Words-IT-Author-and-Beekeeper-Andrew-Hancock.html)
 
+
 ## Other pages
+
 - [Cyber Security](/Pages//CyberSecurity.md)
 - [Electronic](/Pages//Electronics.md
 - [Ethics, Law and Professionalism](/Pages//Ethics_Law_Professionalism.md)
 - [Linux](/Pages/Linux.md)
 - [Programming](/Pages//Programming.md)
 - [Virtualisation](/Pages//Virtualisation.md)
+
 
 ## Contributing <a name="contributing"></a>
 
