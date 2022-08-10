@@ -10,10 +10,12 @@
 - [Blazor Project Structure](https://www.pragimtech.com/blog/blazor/blazor-project-structure/)
 - [Official Blazor Docs](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
+
 ### C#
 
 - [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](robmiles.com). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
 - [Two Decades of C#: A Reference](https://benbowen.blog/post/two_decades_of_csharp_i/) - A reference of which C# version introduced which features. Linked is the first blog; later versions are covered under later blogs.
+
 
 ### CSS
 
@@ -22,13 +24,16 @@
 - [Aweomesheet](https://zombiefox.github.io/awesomeSheet/) - CSS Generator
 - [Learn CSS](https://web.dev/learn/css/) - Free Google course on CSS
 
+
 ### DSharp
 
 - [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
 
+
 ### HTML
 
 - [W3 HTML Introduction](https://www.w3schools.com/html/)
+
 
 ### Static site generators
 
@@ -44,21 +49,25 @@
 - [Statiq Web](https://www.statiq.dev/web/) - Still under development, use if you want to get involved with the community to help develop
 - [Publii](https://getpublii.com/) - Desktop app rather than CLI
 
+
 ### Cross-Platform
 
 - [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
 - [Flutter](https://flutter.dev/)
 - [React Native](https://reactnative.dev/)
 
+
 ### Documentation
 
 - [DevDocs](https://devdocs.io/) - Searchable developer docs
 - [Refactoring.guru](https://refactoring.guru/) - Learn about design patterns and refactoring.
 
+
 ### Coding Practice
 
 - [Kattis](https://open.kattis.com/) - Programming problems to help you improve your skills. Compete against staff/students.
 - [Code Academy](https://www.codecademy.com/) - Improve your programming knowledge.
+
 
 ### Competitive Programming
 
@@ -78,6 +87,7 @@
 - [Codedrills](https://codedrills.io/) - Best site for ACM-ICPC Mock Rounds (Indian Regionals and Prelims)
 - [USACO](https://usaco.guide/) - American Website for CP
 
+
 ## Mathematics and Programming 
 
 - [ProjectEuler](https://projecteuler.net/about) - Best site for Maths Problems which are easily solved using programming.
@@ -85,6 +95,7 @@
 - [Maths-Stackexchange](https://math.stackexchange.com/) - Ask and Answer maths questions
 - [Mathometer](http://mathometer.weebly.com/) -  Maths Website from an IIT Bombay senior
 - [MathBlog](https://www.mathblog.dk/) - Good Reading blog for Maths. 
+
 
 ## Useful Codeforces Blogs 
 
