@@ -6,7 +6,6 @@
 List originally comprised by [@closebracket](https://github.com/closebracket)
 
 ## Contents
-
 - [Student Discount / Free stuff <a name="freestuff"></a>](#student-discount--free-stuff-)
 - [Hull University Related <a name="hulluniversity"></a>](#hull-university-related-)
 - [Hull Related <a name="hull"></a>](#hull-related-)
@@ -19,6 +18,12 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
     - [Supporting learning Linux](#supporting-learning-linux)
     - [Linux Resources](#linux-resources)
 - [Other interesting stuff <a name="misc"></a>](#other-interesting-stuff-)
+- [Other pages](#other-pages)
+  - [Cyber Security](/CyberSecurity.md)
+  - [Electronic](/Electronics.md)
+  - [Ethics, Law and Professionalism](/Ethics_Law_Professionalism.md)
+  - [Programming](/Programming.md)
+  - [Virtualisation](/Virtualisation.md)
 - [Contributing <a name="contributing"></a>](#contributing-)
 
 ## Student Discount / Free stuff <a name="freestuff"></a>
@@ -197,6 +202,13 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [MIT Press: Reading code != Reading Language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 - [Andrew Hancock talks with Experts Exchange about Career Growth and VMware](https://www.experts-exchange.com/podcasts/5/Career-Growth-and-VMware.html)
 - [Andrew Hancock talks with Experts Exchange about being an IT Author and British Beekeeper](https://www.experts-exchange.com/podcasts/241/EP-19-Buzz-Words-IT-Author-and-Beekeeper-Andrew-Hancock.html)
+
+## Other pages
+  - [Cyber Security](/CyberSecurity.md)
+  - [Electronic](/Electronics.md)
+  - [Ethics, Law and Professionalism](/Ethics_Law_Professionalism.md)
+  - [Programming](/Programming.md)
+  - [Virtualisation](/Virtualisation.md)
 
 ## Contributing <a name="contributing"></a>
 
