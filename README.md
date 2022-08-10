@@ -141,6 +141,8 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 6. [Ouroboros](https://github.com/pyouroboros/ouroboros) - Keep those docker containers up to date.
 7. [TLDR Pages](https://tldr.sh/) - Simplified man pages.
 8. [Explain Command](https://www.mankier.com/explain) - A quick way to see what commands and their options do before running them.
+9. [RefWorks](https://refworks.proquest.com/) - A reference manager with University of Hull standard support.
+10. [Connected Papers](https://www.connectedpapers.com/) - Visualise an academic field and find similiar papers.
 
 ## Educational Resources <a name="education"></a>
 
