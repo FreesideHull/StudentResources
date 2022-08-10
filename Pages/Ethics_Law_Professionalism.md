@@ -22,7 +22,9 @@
 - [Don't talk to Police](https://www.youtube.com/watch?v=d-7o9xYp7eE) - An American Law School lecture with a police officer in attendance exploring why it is never a good idea to talk to police.
 - [Right to be offended does not exist - High Court Judge](https://www.dailymail.co.uk/news/article-7710009/Right-offended-does-not-exist-says-High-Court-judge.html) - High court Judge on why the right to be offended does not exist.
 
+
 ## Professionalism & Standards <a name="standards"></a>
+
 - [W3](https://www.w3.org/standards/) - Standards for web design and applications, devices, architecture, XML, web services and other technology.
 - [Government overview of Data Protection](https://www.gov.uk/data-protection)
 - [The Chartered Institute for IT](https://www.bcs.org/)
@@ -33,17 +35,21 @@
 - [ETSI Industry standard Code of Practice](https://www.gov.uk/government/publications/etsi-industry-standard-based-on-the-code-of-practice)
 - [Electronic Communications Code](https://www.ofcom.org.uk/phones-telecoms-and-internet/information-for-industry/policy/electronic-comm-code)
 
+
 ## Law <a name="law"></a>
 ### Legal Definitions
+
 - [Actus Reus](https://e-lawresources.co.uk/Actus-reus.php) - The Act (Physical)
 - [Mens Rea](https://e-lawresources.co.uk/Mens-rea-intention.php) - The Intent (Mental)
 - [Ignorantia juris non excusat](https://thelawpedia.co.uk/ignorantia-juris-non-excusat/) - Ignorance of the law is no excuse.
+
 
 ### Computing Specific Laws
 - [Computer Misuse Act 1990](https://www.legislation.gov.uk/ukpga/1990/18/contents)
 - [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted)
 - [Investigatory Powers Act 2016](https://www.gov.uk/government/collections/investigatory-powers-bill) | [Read more heres](https://bills.parliament.uk/bills/1749)
 - [Malicious Communications Act 1988](https://www.legislation.gov.uk/ukpga/1988/27/section/1)
+
 
 ### Online Harms Bill 
 - [Online Harms White Paper - Government Response](https://www.gov.uk/government/consultations/online-harms-white-paper/outcome/online-harms-white-paper-full-government-response)
@@ -63,6 +69,7 @@
     - [Alan Turing Institute Evidence HTML Version](https://committees.parliament.uk/writtenevidence/38395/html/)
     - [Epilepsy Society Evidence HTML Version](https://committees.parliament.uk/writtenevidence/38476/html/)
     
+
 ### The Product Security and Telecommunications Infrastructure (PSTI) Bill 
 - [Factsheet](https://www.gov.uk/government/collections/the-product-security-and-telecommunications-infrastructure-psti-bill-factsheets)
 - [Secure by Design](https://www.gov.uk/government/collections/secure-by-design)

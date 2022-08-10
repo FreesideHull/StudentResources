@@ -6,6 +6,7 @@
 List originally comprised by [@closebracket](https://github.com/closebracket)
 
 ## Contents
+
 - [Student Discount / Free stuff <a name="freestuff"></a>](#student-discount--free-stuff-)
 - [Hull University Related <a name="hulluniversity"></a>](#hull-university-related-)
 - [Hull Related <a name="hull"></a>](#hull-related-)
@@ -14,17 +15,16 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Software <a name="software"></a>](#software-)
 - [Tools <a name="tools"></a>](#tools-)
 - [Educational Resources <a name="education"></a>](#educational-resources-)
-- [Linux Distributions <a name="linux"></a>](#linux-distributions-)
-    - [Supporting learning Linux](#supporting-learning-linux)
-    - [Linux Resources](#linux-resources)
 - [Other interesting stuff <a name="misc"></a>](#other-interesting-stuff-)
 - [Other pages](#other-pages)
-  - [Cyber Security](/CyberSecurity.md)
-  - [Electronic](/Electronics.md)
-  - [Ethics, Law and Professionalism](/Ethics_Law_Professionalism.md)
-  - [Programming](/Programming.md)
-  - [Virtualisation](/Virtualisation.md)
+  - [Cyber Security](/Pages//CyberSecurity.md)
+  - [Electronic](/Pages//Electronics.md)
+  - [Ethics, Law and Professionalism](/Pages/Ethics_Law_Professionalism.md)
+  - [Linux](/Pages/Linux.md)
+  - [Programming](/Pages//Programming.md)
+  - [Virtualisation](/Pages//Virtualisation.md)
 - [Contributing <a name="contributing"></a>](#contributing-)
+
 
 ## Student Discount / Free stuff <a name="freestuff"></a>
 
@@ -37,6 +37,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 
 - [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 - [Google Workspace for Education](https://edu.google.com/intl/ALL_in/products/workspace-for-education/) Gives students and teachers access to all premium Google Workspace tools. With access to various colaboration and productivity tools, it provides extra cloud storage to all authorised users.
+
 
 ## Hull University Related <a name="hulluniversity"></a>
 
@@ -56,6 +57,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Hull University Employability Award](https://hullawards.hull.ac.uk/) - Get an award from the university for extracurricular activities.
 - [Hull University Buddy](https://chrome.google.com/webstore/detail/hull-university-buddy/jnppmhcoifoohipnnhdabhnolnilncbk) - Chrome extension to help students navigate around University resources quicker.
 
+
 ## Hull Related <a name="hull"></a>
 
 - [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
@@ -63,6 +65,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Connected Humber Hardware Meetups](https://www.connectedhumber.org/meetups.html)
 - [Hull Central Library Makerspace](https://www.hcandl.co.uk/libraries/makerspace/about-makerspacehull)
 - [Hull Chamber of Commerce](https://www.hull-humber-chamber.co.uk/)
+
 
 ## Business / Career <a name="business"></a>
 
@@ -80,6 +83,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [York & Yorkshire Local Enterprise Partnership Linkedin Group](https://www.linkedin.com/groups/4217871/)
 - [Forage](https://www.theforage.com/) - Offers 5-6 hours virtual work experience programs.
 
+
 ## Services <a name="services"></a>
 
 - [Migadu.com](https://migadu.com) - Unlimited cheap email for lots of domains.
@@ -93,6 +97,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Programmable Web APIs](https://www.programmableweb.com/)
 - [A list of publically available APIs](https://github.com/public-apis/public-apis)
 - [GitHub Gist](https://gist.github.com/) - For sharing code quicky and privately.
+
 
 ## Software <a name="software"></a>
 
@@ -121,6 +126,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Explain Command](https://www.mankier.com/explain) - A quick way to see what commands and their options do before running them.
 - [RefWorks](https://refworks.proquest.com/) - A reference manager with University of Hull standard support.
 - [Connected Papers](https://www.connectedpapers.com/) - Visualise an academic field and find similiar papers.
+
 
 ## Educational Resources <a name="education"></a>
 
@@ -161,38 +167,6 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Regexone](https://regexone.com/) - A Regex guide.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Learn the command line (specifically Bash).
 
-## Linux Distributions <a name="linux"></a>
-
-- [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
-- [Fedora](https://getfedora.org/) - Freeside uses this in our Lab!
-- [Arch](https://www.archlinux.org/) - Advanced distribution for those looking to expand their knowledge of Linux.
-- [Anarchy](https://anarchyinstaller.gitlab.io/) and [ALG](https://archlinuxgui.in/download.html) - These are menu/graphical installers for Arch linux, can be useful for those wanting to try out Arch without doing everything from the command line.
-- [Artix](https://artixlinux.org/) - A systemd-free alternative to Arch.
-- [Kubuntu](https://kubuntu.org/) - Ubuntu with an alternative desktop environment (KDE).
-- [Lubuntu](https://lubuntu.me) - Ubuntu using LXQT, a lightweight alternative to other desktop environments.
-- [Mint](https://linuxmint.com/) - Another variant of Ubuntu, great for those familiar with Windows.
-- [Tails](https://tails.boum.org/index.en.html) - A portable distribution that runs only in memory, for the ultimate privacy protection.
-- [Qubes OS](https://www.qubes-os.org/intro/) - A reasonably secure operating system. _Recommended by Edward Snowden_
-- [Raspberry Pi OS](https://www.raspberrypi.org) - For use with the range of Raspberry Pi single board computers. A great distribution if you're looking to get into programming (and don't mind spending a bit of money on the hardware to run it), especially involving Python or electronics (the Pis can come with GPIO pins for use with electronics). There are some beginner projects listed on the site but there are a lot of projects made by the Pi community.
-- [Rescatux](https://www.supergrubdisk.org/rescatux/) - An Debian based os which has utilities to help repair potentially broken Linux or Windows systems as well as boot loaders.
-
-#### Supporting learning Linux
-
-- [Ask Ubuntu](https://askubuntu.com/) - Ubuntu Q&A site. Part of Stack Exchange.
-- [Unix & Linux Stack Exchange](https://unix.stackexchange.com/) - For more general Linux-related questions.
-
-#### Linux Resources
-
-- [Arch Linux Wiki - Permissions](https://wiki.archlinux.org/title/File_permissions_and_attributes)-
-- [Arch Linux Docs - SSH](https://wiki.archlinux.org/title/OpenSSH#Installation)
-- [Configure 2FA on SSH](https://ubuntu.com/tutorials/configure-ssh-2fa#1-overview)
-- [Desktop Environments](https://wiki.archlinux.org/title/Desktop_environment)
-- [Install and Configure SSH Server on Arch Linux](https://linuxhint.com/install_ssh_server_on_arch_linux/)
-- [OpenSSH Manual](https://www.openssh.com/manual.html)
-- [Principle of Least Privilege](https://techcommunity.microsoft.com/t5/azure-sql/security-the-principle-of-least-privilege-polp/ba-p/2067390)
-- [Introduction to Linux](http://ftp.wayne.edu/ldp/en/Intro-Linux/Intro-Linux.pdf) - Hands on guide to learn Linux.
-- [Learn Shell](https://www.learnshell.org/) - Learn programming with Unix/Linux shell interpreters.
-- [Linux Upskill Challenge](https://linuxupskillchallenge.org/) - Learn the Linux terminal with a free and open source 21 day course
 
 ## Other interesting stuff <a name="misc"></a>
 
@@ -203,16 +177,20 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Andrew Hancock talks with Experts Exchange about Career Growth and VMware](https://www.experts-exchange.com/podcasts/5/Career-Growth-and-VMware.html)
 - [Andrew Hancock talks with Experts Exchange about being an IT Author and British Beekeeper](https://www.experts-exchange.com/podcasts/241/EP-19-Buzz-Words-IT-Author-and-Beekeeper-Andrew-Hancock.html)
 
+
 ## Other pages
-  - [Cyber Security](/CyberSecurity.md)
-  - [Electronic](/Electronics.md)
-  - [Ethics, Law and Professionalism](/Ethics_Law_Professionalism.md)
-  - [Programming](/Programming.md)
-  - [Virtualisation](/Virtualisation.md)
+
+- [Cyber Security](/Pages//CyberSecurity.md)
+- [Electronic](/Pages//Electronics.md
+- [Ethics, Law and Professionalism](/Pages/Ethics_Law_Professionalism.md)
+- [Linux](/Pages/Linux.md)
+- [Programming](/Pages//Programming.md)
+- [Virtualisation](/Pages//Virtualisation.md)
+
 
 ## Contributing <a name="contributing"></a>
 
-Contributions are greatly appreciated! Either make a [pull request](https://github.com/FreesideHull/StudentResources/pulls) or an [issue](https://github.com/FreesideHull/StudentResources/issues) with your addition! For guidance, see: [Contributing.md](/CONTRIBUTING.md)
+Contributions are greatly appreciated! Either make a [pull request](https://github.com/FreesideHull/StudentResources/pulls) or an [issue](https://github.com/FreesideHull/StudentResources/issues) with your addition! For guidance, see: [Contributing.md](.github/CONTRIBUTING.md)
 
 ---
 

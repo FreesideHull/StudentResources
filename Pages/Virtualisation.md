@@ -9,6 +9,7 @@
 - [Types of Network Topology](https://www.educba.com/types-of-network-topology/)
 - [Network topologies, protocols and layers](https://www.bbc.co.uk/bitesize/guides/z666pbk/revision/2)
 
+
 ## Hypervisors and virtual machines  <a name="virtualisation"></a>
 
 Ontop of the great VMware resources below there are other hypervisors for running containers and virtual machines.
@@ -49,8 +50,6 @@ Type 2
 - [VMware Workstation](https://www.vmware.com/uk/products/workstation-pro.html) - Type 2 Hypervisor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology. All this software is FREE here - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
 - [VMware Player](https://www.vmware.com/uk/products/workstation-player.html) - Type 2 Hypervosor for Linux and Windows - Available for free if a Student of The Department of Computer Science and Technology. All this software is FREE here - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
 - [Parallels Desktop 16 for Mac](https://www.parallels.com/uk/products/desktop/) - Type 2 Hypervisor for Mac.
-
-
 
 
 ## Andrew Hancock, Department of Computer Science & Technology - Systems <a name="andrewhancock"></a>
