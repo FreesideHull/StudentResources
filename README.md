@@ -1,11 +1,12 @@
 ![Freeeside Logo](https://camo.githubusercontent.com/8824210474b9586405f0b11e210ea266599c9f83/68747470733a2f2f63646e2e7261776769742e636f6d2f467265657369646548756c6c2f4c6f676f732f6d61737465722f66726565736964655f7371756172655f706174682e737667 "Freeside Logo")
 
+
+> The Freeside Student Resources list consists of multiple categories of professional and academic resources which are aimed at aiding University of Hull students to gain further knowledge.
+
+List originally comprised by [@closebracket](https://github.com/closebracket)
+
 ## Contents
 
-- [Contents](#contents)
-- [Introduction <a name="introduction"></a>](#introduction-)
-- [Contributing <a name="contributing"></a>](#contributing-)
-  - [Help and Support](#help-and-support)
 - [Student Discount / Free stuff <a name="freestuff"></a>](#student-discount--free-stuff-)
 - [Hull University Related <a name="hulluniversity"></a>](#hull-university-related-)
 - [Hull Related <a name="hull"></a>](#hull-related-)
@@ -18,36 +19,7 @@
     - [Supporting learning Linux](#supporting-learning-linux)
     - [Linux Resources](#linux-resources)
 - [Other interesting stuff <a name="misc"></a>](#other-interesting-stuff-)
-
-## Introduction <a name="introduction"></a>
-
-The Freeside Student Resources list consists of multiple categories of professional and academic resources which are aimed at aiding University of Hull students to gain further knowledge.
-
-List originally comprised by [@closebracket](https://github.com/closebracket)
-
-## Contributing <a name="contributing"></a>
-
-Freeside welcome contributions to these lists from staff and students at the University of Hull, as well as members of the public. If you wish to contribute, please abide by the following rules:
-
-- Fork the repository, look at the markdown and understand it.
-- Make your changes and double check that nothing is broken.
-- Make a pull request and request a review from the Freeside team.
-
-### Help and Support
-
-[SittingBanana01](https://github.com/SittingBanana01/), a Computer Science student at Hull, has developed a Chrome Browser extension to help students navigate around University Resources quicker. [Download here](https://chrome.google.com/webstore/detail/hull-university-buddy/jnppmhcoifoohipnnhdabhnolnilncbk). Installation instructions are included in the zip. If you are interested in contributing to the development of the extension, please get in touch with [SittingBanana01](https://github.com/SittingBanana01/).
-
-**Contributing to Freeside**
-
-> Help is available on the **[Freeside's Discord server](https://discord.freeside.co.uk/)** if you have questions in relation to contributing to Freeside in any capacity.
-
-**Help with Linux**
-
-> Resources to Learn Linux are available further down the list. You should try to do some basic research and troubleshooting yourself prior to asking for help. If you cannot solve an issue, help is available on the **[Freeside's Discord server](https://discord.freeside.co.uk/)**.
-
-**Help for University of Hull Students**
-
-> If you need help with University of Hull assignments/coursework, you should contact the Hub through **[Evision](https://evision.hull.ac.uk)**. Alternatively, for tech issues, ICTD can be contacted via **[The Support Portal](https://support.hull.ac.uk)**.
+- [Contributing <a name="contributing"></a>](#contributing-)
 
 ## Student Discount / Free stuff <a name="freestuff"></a>
 
@@ -77,6 +49,7 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 - [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
 - [LaTeX Dissertation / Report Templates](https://git.starbeamrainbowlabs.com/Demos/latex-templates) (unofficial edit of an official template)
 - [Hull University Employability Award](https://hullawards.hull.ac.uk/) - Get an award from the university for extracurricular activities.
+- [Hull University Buddy](https://chrome.google.com/webstore/detail/hull-university-buddy/jnppmhcoifoohipnnhdabhnolnilncbk) - Chrome extension to help students navigate around University resources quicker.
 
 ## Hull Related <a name="hull"></a>
 
@@ -225,6 +198,11 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 - [Andrew Hancock talks with Experts Exchange about Career Growth and VMware](https://www.experts-exchange.com/podcasts/5/Career-Growth-and-VMware.html)
 - [Andrew Hancock talks with Experts Exchange about being an IT Author and British Beekeeper](https://www.experts-exchange.com/podcasts/241/EP-19-Buzz-Words-IT-Author-and-Beekeeper-Andrew-Hancock.html)
 
+## Contributing <a name="contributing"></a>
+
+Contributions are greatly appreciated! Either make a [pull request](https://github.com/FreesideHull/StudentResources/pulls) or an [issue](https://github.com/FreesideHull/StudentResources/issues) with your addition! For guidance, see: [Contributing.md](/CONTRIBUTING.md)
+
+---
 
 Copyright 2021 Freeside. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at <http://www.apache.org/licenses/LICENSE-2.0>
 
