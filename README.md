@@ -14,16 +14,16 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Software <a name="software"></a>](#software-)
 - [Tools <a name="tools"></a>](#tools-)
 - [Educational Resources <a name="education"></a>](#educational-resources-)
-- [Linux Distributions <a name="linux"></a>](#linux-distributions-)
+- [Linux Distributions <a name="linux"></a>](#linux-distributions-a-namelinuxa)
     - [Supporting learning Linux](#supporting-learning-linux)
     - [Linux Resources](#linux-resources)
 - [Other interesting stuff <a name="misc"></a>](#other-interesting-stuff-)
 - [Other pages](#other-pages)
-  - [Cyber Security](/CyberSecurity.md)
-  - [Electronic](/Electronics.md)
-  - [Ethics, Law and Professionalism](/Ethics_Law_Professionalism.md)
-  - [Programming](/Programming.md)
-  - [Virtualisation](/Virtualisation.md)
+  - [Cyber Security](/Pages//CyberSecurity.md)
+  - [Electronic](/Pages//Electronics.md)
+  - [Ethics, Law and Professionalism](/Pages//Ethics_Law_Professionalism.md)
+  - [Programming](/Pages//Programming.md)
+  - [Virtualisation](/Pages//Virtualisation.md)
 - [Contributing <a name="contributing"></a>](#contributing-)
 
 ## Student Discount / Free stuff <a name="freestuff"></a>
@@ -204,15 +204,15 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Andrew Hancock talks with Experts Exchange about being an IT Author and British Beekeeper](https://www.experts-exchange.com/podcasts/241/EP-19-Buzz-Words-IT-Author-and-Beekeeper-Andrew-Hancock.html)
 
 ## Other pages
-  - [Cyber Security](/CyberSecurity.md)
-  - [Electronic](/Electronics.md)
-  - [Ethics, Law and Professionalism](/Ethics_Law_Professionalism.md)
-  - [Programming](/Programming.md)
-  - [Virtualisation](/Virtualisation.md)
+  - [Cyber Security](/Pages//CyberSecurity.md)
+  - [Electronic](/Pages//Electronics.md)
+  - [Ethics, Law and Professionalism](/Pages//Ethics_Law_Professionalism.md)
+  - [Programming](/Pages//Programming.md)
+  - [Virtualisation](/Pages//Virtualisation.md)
 
 ## Contributing <a name="contributing"></a>
 
-Contributions are greatly appreciated! Either make a [pull request](https://github.com/FreesideHull/StudentResources/pulls) or an [issue](https://github.com/FreesideHull/StudentResources/issues) with your addition! For guidance, see: [Contributing.md](/CONTRIBUTING.md)
+Contributions are greatly appreciated! Either make a [pull request](https://github.com/FreesideHull/StudentResources/pulls) or an [issue](https://github.com/FreesideHull/StudentResources/issues) with your addition! For guidance, see: [Contributing.md](.github/CONTRIBUTING.md)
 
 ---
 
