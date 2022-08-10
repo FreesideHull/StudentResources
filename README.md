@@ -6,6 +6,7 @@
 List originally comprised by [@closebracket](https://github.com/closebracket)
 
 ## Contents
+
 - [Student Discount / Free stuff <a name="freestuff"></a>](#student-discount--free-stuff-)
 - [Hull University Related <a name="hulluniversity"></a>](#hull-university-related-)
 - [Hull Related <a name="hull"></a>](#hull-related-)

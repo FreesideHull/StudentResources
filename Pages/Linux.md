@@ -19,10 +19,12 @@
 - [Raspberry Pi OS](https://www.raspberrypi.org) - For use with the range of Raspberry Pi single board computers. A great distribution if you're looking to get into programming (and don't mind spending a bit of money on the hardware to run it), especially involving Python or electronics (the Pis can come with GPIO pins for use with electronics). There are some beginner projects listed on the site but there are a lot of projects made by the Pi community.
 - [Rescatux](https://www.supergrubdisk.org/rescatux/) - An Debian based os which has utilities to help repair potentially broken Linux or Windows systems as well as boot loaders.
 
+
 #### Supporting learning Linux
 
 - [Ask Ubuntu](https://askubuntu.com/) - Ubuntu Q&A site. Part of Stack Exchange.
 - [Unix & Linux Stack Exchange](https://unix.stackexchange.com/) - For more general Linux-related questions.
+
 
 #### Linux Resources
 
