@@ -169,12 +169,12 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Andrew Hancock talks with Experts Exchange about being an IT Author and British Beekeeper](https://www.experts-exchange.com/podcasts/241/EP-19-Buzz-Words-IT-Author-and-Beekeeper-Andrew-Hancock.html)
 
 ## Other pages
-  - [Cyber Security](/Pages//CyberSecurity.md)
-  - [Electronic](/Pages//Electronics.md)
-  - [Ethics, Law and Professionalism](/Pages//Ethics_Law_Professionalism.md)
-  - [Linux](/Pages/Linux.md)
-  - [Programming](/Pages//Programming.md)
-  - [Virtualisation](/Pages//Virtualisation.md)
+- [Cyber Security](/Pages//CyberSecurity.md)
+- [Electronic](/Pages//Electronics.md
+- [Ethics, Law and Professionalism](/Pages//Ethics_Law_Professionalism.md)
+- [Linux](/Pages/Linux.md)
+- [Programming](/Pages//Programming.md)
+- [Virtualisation](/Pages//Virtualisation.md)
 
 ## Contributing <a name="contributing"></a>
 
