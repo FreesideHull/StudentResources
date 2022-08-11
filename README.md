@@ -181,7 +181,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 ## Other pages
 
 - [Cyber Security](/Pages//CyberSecurity.md)
-- [Electronic](/Pages//Electronics.md
+- [Electronic](/Pages//Electronics.md)
 - [Ethics, Law and Professionalism](/Pages/Ethics_Law_Professionalism.md)
 - [Linux](/Pages/Linux.md)
 - [Programming](/Pages//Programming.md)
