@@ -38,4 +38,4 @@ Examples of unacceptable behavior include:
   
   ## Contacting us
   
-  If you would like to contact Freeside to discuss conduct or a PR, please join our Discord: https://discord.gg/BQ9E7S37qd. 
+  If you would like to contact Freeside to discuss conduct or a PR, please join our Discord: https://discord.freeside.co.uk/. 
