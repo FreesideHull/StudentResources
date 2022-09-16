@@ -37,6 +37,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 
 - [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 - [Google Workspace for Education](https://edu.google.com/intl/ALL_in/products/workspace-for-education/) Gives students and teachers access to all premium Google Workspace tools. With access to various colaboration and productivity tools, it provides extra cloud storage to all authorised users.
+- [Scaler Topics](https://www.scaler.com/topics/) - Free resource to learn Programming Languages by top geeks.
 
 
 ## Hull University Related <a name="hulluniversity"></a>
