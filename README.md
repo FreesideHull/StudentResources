@@ -33,10 +33,10 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html)
 
 > VMware IT Academy is a similar program to the [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/), and allows students to obtain Software Products and Licensing for most of the VMware Products for FREE e.g. VMware Workstation, VMware vSphere, VMware Fusion.
-> If you are a student of The Department of Computer science and Technology you would have been enrolled automatically. However sometimes your information may have "fallen through the cracks!", if so please reach out to me Andy Hancock via <http://support.hull.ac.uk> and mention Andy Hancock!
+> If you are a student of The Department of Computer science and Technology you would have been enrolled automatically. However sometimes your information may have "fallen through the cracks!", if so please reach out to me Andy Hancock via <https://support.hull.ac.uk> and mention Andy Hancock!
 
 - [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
-- [Google Workspace for Education](https://edu.google.com/intl/ALL_in/products/workspace-for-education/) Gives students and teachers access to all premium Google Workspace tools. With access to various collaboration and productivity tools, it provides extra cloud storage to all authorised users.
+- [Google Workspace for Education](https://edu.google.com/intl/ALL_in/workspace-for-education/editions/overview/) Gives students and teachers access to all premium Google Workspace tools. With access to various collaboration and productivity tools, it provides extra cloud storage to all authorised users.
 
 
 ## Hull University Related <a name="hulluniversity"></a>
@@ -46,8 +46,8 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](https://www.robmiles.com/). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
 - [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
 - [HullBlogs](https://hullblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
-- [Freeside Discord](https://discord.gg/qAZ8dAp).
-- [#HullCSS Discord](https://hullcss.org/discord).
+- [Freeside Discord](https://discord.freeside.co.uk).
+- [#HullCSS Discord](https://discord.com/invite/8kYtKWT2VA).
 - [Hull Gaming Society Discord](https://discord.gg/Rm5gepFQWA).
 - [Hull Robotics Society Discord](https://discord.gg/pYP5kqE).
 - [University of Hull Unofficial Discord Server](https://discord.gg/PPrvttzFSW)
