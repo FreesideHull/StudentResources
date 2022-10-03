@@ -15,7 +15,7 @@
 Ontop of the great VMware resources below there are other hypervisors for running containers and virtual machines.
 
 Hypervisors are classified as Type 1 or Type 2 hypervisors. Type 1 are often known as bare metal hypervisors. It's installed on bare metal, e.g. it is not installed as an application on top of an operating system. A Type 2 hypervisor is an application which is installed on the operating system.
-Type 2 Hypervisors can be SLOW.  In most reviews and experience, they perform at roughly 30-40% hardware capability.  That means an Guest Operating Systems in a virtual machine hosted on a Type 2 hyperviosor will likely perform at best like it has an 800 MHz CPU if you have 2 GHz physical CPU. 
+Type 2 Hypervisors can be SLOW.  In most reviews and experience, they perform at roughly 30-40% hardware capability.  That means an Guest Operating Systems in a virtual machine hosted on a Type 2 hypervisor will likely perform at best like it has an 800 MHz CPU if you have 2 GHz physical CPU. 
 
 If you use a Type 1 Hypervisor, you get much better performance (based on experience and reviews) typically get 80-90% hardware capability - so that same virtual machines hosted on the same 2 GHz CPU should operate more like it has a 1.6 GHz CPU instead of 800 Mhz. 
 
@@ -34,7 +34,7 @@ Type 1 (Bare Metal Hypervisors)
 - [VMware vSphere Hypervisor (ESXi)](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi7) - Available for free, or full version - Available for free if a Student of The Department of Computer Science and Technology. All this software is FREE here - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html) 
 - [KVM/QEmu](https://www.linux-kvm.org/page/Main_Page) - KVM is built into the linux kernel, just like Hyper-V in Windows
 
-There are many frontends / management tools for KVM, including but not limited to
+There are many front ends / management tools for KVM, including but not limited to
 
 - [Gnome Boxes](https://wiki.gnome.org/Apps/Boxes)
 - [virt-manager](https://virt-manager.org/)

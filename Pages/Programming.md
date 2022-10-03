@@ -77,13 +77,12 @@
 - [Interview Bit](https://www.interviewbit.com/practice/) - A platform to learn and practice coding interview questions. Has learning paths for various roles as well.
 - [Leetcode](https://leetcode.com/) - A great platform for mastering Data Structures and Algorithms. An essential part of the preparation for SDE interviews.
 - [DMOJ](https://dmoj.ca/) - An Archive of great coding problems. Also there are contest on this site.
-- [CSES](https://cses.fi/problemset/) - A problem set reknowned to be a one set package for getting ready for competitive programming.
+- [CSES](https://cses.fi/problemset/) - A problem set renowned to be a one set package for getting ready for competitive programming.
 - [CP Algorithms](https://cp-algorithms.com/) - A collection of important algorithms written in C++.
 - [Atcoder](https://atcoder.jp/) - AtCoder is a programming contest site for anyone from beginners to experts.
-- [Clist.by](https://clist.by/) - Get updates of upcoming competetive programming contests.
-- [TopCoder](https://www.topcoder.com/) - All in one site for CP , ML/AI , Developement 
+- [TopCoder](https://www.topcoder.com/) - All in one site for CP , ML/AI , Development 
 - [SPOJ](https://www.spoj.com/) - Beginner friendly website for CP 
-- [HackerEarth](https://www.hackerearth.com/) - Great free-site for Developement and Coding 
+- [HackerEarth](https://www.hackerearth.com/) - Great free-site for Development and Coding 
 - [Codedrills](https://codedrills.io/) - Best site for ACM-ICPC Mock Rounds (Indian Regionals and Prelims)
 - [USACO](https://usaco.guide/) - American Website for CP
 
@@ -102,5 +101,5 @@
 - [C++Tricks](https://codeforces.com/blog/entry/15643) - Many Tricks are explained well. 
 - [DSA](https://codeforces.com/blog/entry/13529) - Best blog for resources like Data Structures and Algorithms.
 - [Way-To-Practice-CP](https://codeforces.com/blog/entry/66909) - Guide to Improve Ratings
-- [YouTube-Tutorial-For-CP](https://codeforces.com/blog/entry/43578) - Nicee YT Tutorials
+- [YouTube-Tutorial-For-CP](https://codeforces.com/blog/entry/43578) - Nice YT Tutorials
 - [Almost-all-Algo-and-Practice-Problems](https://codeforces.com/blog/entry/90912) - Best Blog to learn and practice simultaneously

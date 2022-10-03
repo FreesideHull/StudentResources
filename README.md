@@ -29,14 +29,14 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 ## Student Discount / Free stuff <a name="freestuff"></a>
 
 - [Github Student Pack](https://education.github.com/pack).
-- [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/). FREE Microsoft licenses for Windows 10 and 11, Visual Studio and other Windows server operating systems, excludes Micresoft Office!
+- [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/). FREE Microsoft licenses for Windows 10 and 11, Visual Studio and other Windows server operating systems, excludes Microsoft Office!
 - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html)
 
 > VMware IT Academy is a similar program to the [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/), and allows students to obtain Software Products and Licensing for most of the VMware Products for FREE e.g. VMware Workstation, VMware vSphere, VMware Fusion.
 > If you are a student of The Department of Computer science and Technology you would have been enrolled automatically. However sometimes your information may have "fallen through the cracks!", if so please reach out to me Andy Hancock via <http://support.hull.ac.uk> and mention Andy Hancock!
 
 - [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
-- [Google Workspace for Education](https://edu.google.com/intl/ALL_in/products/workspace-for-education/) Gives students and teachers access to all premium Google Workspace tools. With access to various colaboration and productivity tools, it provides extra cloud storage to all authorised users.
+- [Google Workspace for Education](https://edu.google.com/intl/ALL_in/products/workspace-for-education/) Gives students and teachers access to all premium Google Workspace tools. With access to various collaboration and productivity tools, it provides extra cloud storage to all authorised users.
 
 
 ## Hull University Related <a name="hulluniversity"></a>
@@ -95,8 +95,8 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Spyse](https://spyse.com/) – Internet assets registry that scan, collect, analyze, and provide information on internet entities💰.
 - [The Things Network](https://www.thethingsnetwork.org/)
 - [Programmable Web APIs](https://www.programmableweb.com/)
-- [A list of publically available APIs](https://github.com/public-apis/public-apis)
-- [GitHub Gist](https://gist.github.com/) - For sharing code quicky and privately.
+- [A list of publicly available APIs](https://github.com/public-apis/public-apis)
+- [GitHub Gist](https://gist.github.com/) - For sharing code quickly and privately.
 
 
 ## Software <a name="software"></a>
@@ -110,7 +110,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Dockstation](https://dockstation.io/) - Docker GUI for Windows, Mac and Linux
 - [Tush](https://github.com/darius/tush/) - a literate testing shell
 - [Haven Self Hosted Blog](https://github.com/havenweb/haven) - A self hosted private blog built with ruby on rails.
-- [Fritzing](https://fritzing.org/) - A software for desinging circuits, PCBs and testing them virtually.
+- [Fritzing](https://fritzing.org/) - A software for designing circuits, PCBs and testing them virtually.
 - [Katakoda](https://www.katacoda.com/) - Katacoda provides a platform to build live interactive demo and training environments.
 - [CodeSandbox](https://codesandbox.io/) - CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.
 
