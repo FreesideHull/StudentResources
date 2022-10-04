@@ -96,7 +96,7 @@
 - [MathBlog](https://www.mathblog.dk/) - Good Reading blog for Maths. 
 
 ## Machine Learning
-- [Google Machine Learning Crash Course] (https://developers.google.com/machine-learning) - A really useful free course to get an introduction to machin learning. 
+- [Google Machine Learning Crash Course] (https://developers.google.com/machine-learning) - A really useful free course to get an introduction to machine learning. 
 
 ## Useful Codeforces Blogs 
 
