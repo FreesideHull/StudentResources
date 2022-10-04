@@ -95,6 +95,8 @@
 - [Mathometer](http://mathometer.weebly.com/) -  Maths Website from an IIT Bombay senior
 - [MathBlog](https://www.mathblog.dk/) - Good Reading blog for Maths. 
 
+## Machine Learning
+- [Google Machine Learning Crash Course] (https://developers.google.com/machine-learning) - A really useful free course to get an introduction to machin learning. 
 
 ## Useful Codeforces Blogs 
 
