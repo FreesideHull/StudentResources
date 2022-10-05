@@ -34,6 +34,11 @@
 
 - [W3 HTML Introduction](https://www.w3schools.com/html/)
 
+### Python
+
+- [RealPython](https://realpython.com/)
+- [Python Turtles](https://docs.python.org/3/library/turtle.html) - The turtle library is a great way for beginners to explore Python.
+- [PyCharm](https://www.jetbrains.com/pycharm/) - Great IDE for Python developers. 
 
 ### Static site generators
 
@@ -96,7 +101,8 @@
 - [MathBlog](https://www.mathblog.dk/) - Good Reading blog for Maths. 
 
 ## Machine Learning
-- [Google Machine Learning Crash Course] (https://developers.google.com/machine-learning) - A really useful free course to get an introduction to machine learning. 
+- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning) - A really useful free course to get an introduction to machine learning. 
+- [Tensorflow](https://www.tensorflow.org) - An open source Python-based library for ML. 
 
 ## Useful Codeforces Blogs 
 
