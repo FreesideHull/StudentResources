@@ -36,7 +36,7 @@
 
 ### Python
 
-- [RealPython](https://realpython.com/)
+- [RealPython](https://realpython.com/) - Python tutorials.
 - [Python Turtles](https://docs.python.org/3/library/turtle.html) - The turtle library is a great way for beginners to explore Python.
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Popular IDE for Python developers. 
 
