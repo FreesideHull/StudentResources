@@ -3,6 +3,9 @@ Freeside welcome contributions to these lists from staff and students at the Uni
 
 - Fork the repository, look at the markdown and understand it. 
 - Make your changes and double check that nothing is broken.
+  - check that your entry hasn't already been added to the repository, as well as checking issues and PRs that may suggest your entry will be denied before committing your changes.
+  - Any category you are creating has the minimum requirement of 3 items. If not, your addition may be inserted into `Other interesting stuff `.
+- make sure your commit message(s) are descriptive.
 - Make a pull request and request a review from the Freeside team.
 
 
