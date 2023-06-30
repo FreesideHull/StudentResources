@@ -38,6 +38,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 - [Google Workspace for Education](https://edu.google.com/intl/ALL_in/workspace-for-education/editions/overview/) Gives students and teachers access to all premium Google Workspace tools. With access to various collaboration and productivity tools, it provides extra cloud storage to all authorised users.
 
+[Lean Ansible for DevOps ebook by Jeff Geerling](https://leanpub.com/ansible-for-devops/c/CTVMPCbEeXd3) Pay what you want Ebook for learning ansible. ([Source](https://www.youtube.com/shorts/0m3GpAVNBDI))
 
 ## Hull University Related <a name="hulluniversity"></a>
 
