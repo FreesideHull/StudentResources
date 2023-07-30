@@ -9,7 +9,7 @@
 - [Ubuntu](https://ubuntu.com/) - Great starting distributions for beginners as lots of support is available.
 - [Fedora](https://getfedora.org/) - Freeside uses this in our Lab!
 - [Arch](https://www.archlinux.org/) - Advanced distribution for those looking to expand their knowledge of Linux.
-- [Anarchy](https://anarchyinstaller.gitlab.io/) and [ALG](https://archlinuxgui.in/download.html) - These are menu/graphical installers for Arch linux, can be useful for those wanting to try out Arch without doing everything from the command line.
+- [Anarchy](https://anarchyinstaller.gitlab.io/) - This is a menu/graphical installers for Arch linux, can be useful for those wanting to try out Arch without doing everything from the command line.
 - [Artix](https://artixlinux.org/) - A systemd-free alternative to Arch.
 - [Kubuntu](https://kubuntu.org/) - Ubuntu with an alternative desktop environment (KDE).
 - [Lubuntu](https://lubuntu.me) - Ubuntu using LXQT, a lightweight alternative to other desktop environments.
