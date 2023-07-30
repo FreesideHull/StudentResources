@@ -43,7 +43,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 ## Hull University Related <a name="hulluniversity"></a>
 
 - [Brian Tompsett Youtube Channel](https://www.youtube.com/channel/UCfG7W9cpOp4G4rH-gLgxVdw). Brian is a [lecturer at University of Hull](https://www.hull.ac.uk/staff-directory/brian-tompsett) and has a [long list of published works](https://scholar.google.co.uk/citations?user=4CFnDSAAAAAJ&hl=en).
-- [Andrew Hancock](Virtualisation.md#andrewhancock). Andrew is the VMware Specialist in Computer Science & Technology, responsible for architecure, watering & feeding the Computer Science and Technology VMware infrastructure. He also has a long list of VMware and Virtualisation articles. Please also see [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html)
+- [Andrew Hancock](Virtualisation.md#andrewhancock). Andrew is the VMware Specialist in Computer Science & Technology, responsible for architecture, watering & feeding the Computer Science and Technology VMware infrastructure. He also has a long list of VMware and Virtualisation articles. Please also see [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html)
 - [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](https://www.robmiles.com/). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
 - [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
 - [HullBlogs](https://hullblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
@@ -91,7 +91,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Github Pages](https://pages.github.com/)
 - [Gitlab](https://about.gitlab.com/)
 - [Matomo](https://matomo.org) - Self hosted Google Analytics alternative.
-- [Wekan](https://wekan.github.io/) - Opensource Kanban.
+- [Wekan](https://wekan.github.io/) - Open source Kanban.
 - [Shodan](https://www.shodan.io/) - Create an account with your University email address to get free membership.
 - [Spyse](https://spyse.com/) – Internet assets registry that scan, collect, analyze, and provide information on internet entities💰.
 - [The Things Network](https://www.thethingsnetwork.org/)
@@ -126,7 +126,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [TLDR Pages](https://tldr.sh/) - Simplified man pages.
 - [Explain Command](https://www.mankier.com/explain) - A quick way to see what commands and their options do before running them.
 - [RefWorks](https://refworks.proquest.com/) - A reference manager with University of Hull standard support.
-- [Connected Papers](https://www.connectedpapers.com/) - Visualise an academic field and find similiar papers.
+- [Connected Papers](https://www.connectedpapers.com/) - Visualise an academic field and find similar papers.
 
 
 ## Educational Resources <a name="education"></a>
