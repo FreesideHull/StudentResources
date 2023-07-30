@@ -24,7 +24,6 @@
 - [CIS Benchmarking](https://www.cisecurity.org/cis-benchmarks/) - Benchmarking tools to protect your environment
 - [Cyber Essentials Certification](https://www.ncsc.gov.uk/cyberessentials/overview)
 - [Privacy Tools](https://privacytools.io)
-- [Syclla.sh](https://scylla.sh/) - community-oriented database leak community that is a useful tool for security researchers.
 - [h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 - [TryHackMe](https://tryhackme.com/) - is an online platform for learning cyber security, using hands-on exercises and labs!
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) - List of OSINT Tools and resources

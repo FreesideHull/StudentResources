@@ -5,7 +5,6 @@
 # Virtualisation List
 
 #### Networking
-- [What is Mesh Topology?](https://fossbytes.com/what-is-mesh-topology-advantages-and-disadvantages-of-mesh-topology/)
 - [Types of Network Topology](https://www.educba.com/types-of-network-topology/)
 - [Network topologies, protocols and layers](https://www.bbc.co.uk/bitesize/guides/z666pbk/revision/2)
 
