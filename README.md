@@ -43,14 +43,14 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 ## Hull University Related <a name="hulluniversity"></a>
 
 - [Brian Tompsett Youtube Channel](https://www.youtube.com/channel/UCfG7W9cpOp4G4rH-gLgxVdw). Brian is a [lecturer at University of Hull](https://www.hull.ac.uk/staff-directory/brian-tompsett) and has a [long list of published works](https://scholar.google.co.uk/citations?user=4CFnDSAAAAAJ&hl=en).
-- [Andrew Hancock](Virtualisation.md#andrewhancock). Andrew is the VMware Specialist in Computer Science & Technology, responsible for architecture, watering & feeding the Computer Science and Technology VMware infrastructure. He also has a long list of VMware and Virtualisation articles. Please also see [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html)
+- [Andrew Hancock](/Pages/Virtualisation.md#andrewhancock). Andrew is the VMware Specialist in Computer Science & Technology, responsible for architecture, watering & feeding the Computer Science and Technology VMware infrastructure. He also has a long list of VMware and Virtualisation articles. Please also see [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html)
 - [The Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - A fantastic intro to C# from former Hull Lecturer, [Rob Miles](https://www.robmiles.com/). He also has other publications available [here](https://www.amazon.co.uk/s?i=stripbooks&rh=p_27:Rob%20Miles&s=relevancerank&text=Rob%20Miles&ref=dp_byline_sr_book_1).
 - [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
 - [HullBlogs](https://hullblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
 - [Freeside Discord](https://discord.freeside.co.uk).
-- [#HullCSS Discord](https://discord.com/invite/8kYtKWT2VA).
-- [Hull Gaming Society Discord](https://discord.gg/Rm5gepFQWA).
-- [Hull Robotics Society Discord](https://discord.gg/pYP5kqE).
+- [#HullCSS](https://hulluniunion.com/activities/view/ComputerScience) - [Discord](https://discord.com/invite/8kYtKWT2VA).
+- [Hull Gaming Society](https://hulluniunion.com/activities/view/gaming-society).
+- [Hull Robotics Society](https://hulluniunion.com/activities/view/Robotics) - [Discord](https://discord.gg/pYP5kqE).
 - [University of Hull Unofficial Discord Server](https://discord.gg/PPrvttzFSW)
 - [Department of Computer Science and Technology Twitter](https://twitter.com/HullCompSci).
 - [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
