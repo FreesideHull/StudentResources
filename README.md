@@ -48,9 +48,9 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Rob Miles Youtube](https://www.youtube.com/channel/UC4OEadKEwxD7TxR9hKhxtuQ).
 - [HullBlogs](https://hullblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
 - [Freeside Discord](https://discord.freeside.co.uk).
-- [#HullCSS Discord](https://discord.com/invite/8kYtKWT2VA).
+- [#HullCSS](https://hulluniunion.com/activities/view/ComputerScience) - [Discord](https://discord.com/invite/8kYtKWT2VA).
 - [Hull Gaming Society](https://hulluniunion.com/activities/view/gaming-society).
-- [Hull Robotics Society Discord](https://discord.gg/pYP5kqE).
+- [Hull Robotics Society](https://hulluniunion.com/activities/view/Robotics) - [Discord](https://discord.gg/pYP5kqE).
 - [University of Hull Unofficial Discord Server](https://discord.gg/PPrvttzFSW)
 - [Department of Computer Science and Technology Twitter](https://twitter.com/HullCompSci).
 - [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
