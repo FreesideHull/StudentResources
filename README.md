@@ -49,7 +49,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [HullBlogs](https://hullblogs.com/) - A collection of blogs from UoH staff, alumni and current students.
 - [Freeside Discord](https://discord.freeside.co.uk).
 - [#HullCSS Discord](https://discord.com/invite/8kYtKWT2VA).
-- [Hull Gaming Society Discord](https://discord.gg/Rm5gepFQWA).
+- [Hull Gaming Society](https://hulluniunion.com/activities/view/gaming-society).
 - [Hull Robotics Society Discord](https://discord.gg/pYP5kqE).
 - [University of Hull Unofficial Discord Server](https://discord.gg/PPrvttzFSW)
 - [Department of Computer Science and Technology Twitter](https://twitter.com/HullCompSci).
