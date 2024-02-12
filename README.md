@@ -131,7 +131,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 
 ## Educational Resources <a name="education"></a>
 
-- [Microsoft Learn](https://learn.microsoft.com/en-gb/training/) Microsoft Learn has tutorials, documentation, and structured learning modules to help teach Microsoft services and products.
+- [Microsoft Learn](https://learn.microsoft.com/en-gb/training/) - Microsoft Learn has tutorials, documentation, and structured learning modules to help teach Microsoft services and products.
 - [Math Talks to Blow Your Mind Playlist](https://www.youtube.com/playlist?list=PLOGi5-fAu8bEIw_xkj1FgKr7QY_Sahswy)
 - [Data Structures Playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P).
 - [Harvard CS50x](https://cs50.harvard.edu).
