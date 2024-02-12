@@ -7,6 +7,3 @@
 - [Learn Electronics](https://www.youtube.com/channel/UCSRTiJhBE5GsP-1fCbpFRWg) - (Youtube Channel)
 - [Free Books on Robotics](https://github.com/StevenShiChina/books)
 
-
-### Raspberry Pi
-- [An introduction to the Raspberry Pi](https://crimsontome.netlify.app/posts/raspi-intro/) - A blog post by Matt Clark
