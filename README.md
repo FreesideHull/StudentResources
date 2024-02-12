@@ -54,7 +54,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [University of Hull Unofficial Discord Server](https://discord.gg/PPrvttzFSW)
 - [Department of Computer Science and Technology Twitter](https://twitter.com/HullCompSci)
 - [University of Hull - Hull's digital repository, Hydra](https://hydra.hull.ac.uk/)
-- [LaTeX Dissertation / Report Templates](https://git.starbeamrainbowlabs.com/Demos/latex-templates) (unofficial edit of an official template)
+- [LaTeX Dissertation / Report Templates](https://git.starbeamrainbowlabs.com/Demos/latex-templates) - (unofficial edit of an official template)
 - [Hull University Employability Award](https://hullawards.hull.ac.uk/) - Get an award from the university for extracurricular activities.
 - [Hull University Buddy](https://chrome.google.com/webstore/detail/hull-university-buddy/jnppmhcoifoohipnnhdabhnolnilncbk) - Chrome extension to help students navigate around University resources quicker.
 
@@ -62,7 +62,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 ## Hull Related <a name="hull"></a>
 
 - [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
-- [C4Di](https://www.c4di.co.uk/) (Hull Based)
+- [C4Di](https://www.c4di.co.uk/) - (Hull Based)
 - [Connected Humber Hardware Meetups](https://www.connectedhumber.org/meetups.html)
 - [Hull Central Library Makerspace](https://www.hcandl.co.uk/libraries/makerspace/about-makerspacehull)
 - [Hull Chamber of Commerce](https://www.hull-humber-chamber.co.uk/)
