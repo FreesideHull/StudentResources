@@ -28,17 +28,17 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 
 ## Student Discount / Free stuff <a name="freestuff"></a>
 
-- [Github Student Pack](https://education.github.com/pack).
-- [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/). FREE Microsoft licenses for Windows 10 and 11, Visual Studio and other Windows server operating systems, excludes Microsoft Office!
+- [Github Student Pack](https://education.github.com/pack)
+- [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/) - FREE Microsoft licenses for Windows 10 and 11, Visual Studio and other Windows server operating systems, excludes Microsoft Office!
 - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html)
 
 > VMware IT Academy is a similar program to the [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/), and allows students to obtain Software Products and Licensing for most of the VMware Products for FREE e.g. VMware Workstation, VMware vSphere, VMware Fusion.
 > If you are a student of The Department of Computer science and Technology you would have been enrolled automatically. However sometimes your information may have "fallen through the cracks!", if so please reach out to me Andy Hancock via <https://support.hull.ac.uk> and mention Andy Hancock!
 
 - [Learning Python Book](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
-- [Google Workspace for Education](https://edu.google.com/intl/ALL_in/workspace-for-education/editions/overview/) Gives students and teachers access to all premium Google Workspace tools. With access to various collaboration and productivity tools, it provides extra cloud storage to all authorised users.
+- [Google Workspace for Education](https://edu.google.com/intl/ALL_in/workspace-for-education/editions/overview/) - Gives students and teachers access to all premium Google Workspace tools. With access to various collaboration and productivity tools, it provides extra cloud storage to all authorised users.
 
-[Lean Ansible for DevOps ebook by Jeff Geerling](https://leanpub.com/ansible-for-devops/c/CTVMPCbEeXd3) Pay what you want Ebook for learning ansible. ([Source](https://www.youtube.com/shorts/0m3GpAVNBDI))
+- [Lean Ansible for DevOps ebook by Jeff Geerling](https://leanpub.com/ansible-for-devops/c/CTVMPCbEeXd3) Pay what you want Ebook for learning ansible. ([Source](https://www.youtube.com/shorts/0m3GpAVNBDI))
 
 ## Hull University Related <a name="hulluniversity"></a>
 
