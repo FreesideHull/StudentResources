@@ -1,4 +1,4 @@
-![Freeeside Logo](https://avatars.githubusercontent.com/u/17128437?s=200&v=4 "Freeside Logo")
+![Freeside Logo](https://avatars.githubusercontent.com/u/17128437?s=200&v=4 "Freeside Logo")
 
 
 > The Freeside Student Resources list consists of multiple categories of professional and academic resources which are aimed at aiding University of Hull students to gain further knowledge.
