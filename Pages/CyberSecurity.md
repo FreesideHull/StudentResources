@@ -11,10 +11,10 @@
 >
 >Freeside will report malicious hacking to the University and/or legal bodies where appropriate.
 
-- [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) (Youtube Channel) 
-- [Capture the Flag Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGOyRReqMyE-CDMWAQ5AgXO-). 
-- [Metasploit Introduction Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGN31ZPTzBbk70bohTYT7HSm).
-- [Ethical Hacking Introduction Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl). 
+- [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) - (Youtube Channel) 
+- [Capture the Flag Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGOyRReqMyE-CDMWAQ5AgXO-)
+- [Metasploit Introduction Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGN31ZPTzBbk70bohTYT7HSm)
+- [Ethical Hacking Introduction Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl)
 - [Python3 for Penetration Testing Playlist](https://www.youtube.com/playlist?list=PLBf0hzazHTGM_dncTqO9l-0zUQYP0nNPU) 
 - [Hunchly](https://www.hunch.ly/) - The Only Web Capture Tool Designed For Online Investigations.
 - [Have I Been Pwned](https://haveibeenpwned.com/)
@@ -35,8 +35,8 @@
 - [Wireshark Packet Analysis](https://youtu.be/ZO46H_kI1bc)
 - [SSL Labs](https://ssllabs.com) - Test the HTTPS configuration of your web server online
 - [testssl.sh](https://testssl.sh/) - TLS configuration tester like SSL Labs, but runs locally
-- [Pentestlab](https://pentestlab.blog/) Blog.
-- [Securityaffairs](https://securityaffairs.co/wordpress/) Blog of Pierluigi Paganini.
+- [Pentestlab](https://pentestlab.blog/) - Blog.
+- [Securityaffairs](https://securityaffairs.co/wordpress/) - Blog of Pierluigi Paganini.
 - [University of Maryland - Hardware Security](https://www.coursera.org/learn/hardware-security)
 - [University of Maryland - Software Security](https://www.coursera.org/learn/software-security)
 - [University of Maryland - Usable Security](https://www.coursera.org/learn/usable-security)
