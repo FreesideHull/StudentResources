@@ -4,7 +4,7 @@
 
 # Electronics
 
-- [Learn Electronics](https://www.youtube.com/channel/UCSRTiJhBE5GsP-1fCbpFRWg) (Youtube Channel).
+- [Learn Electronics](https://www.youtube.com/channel/UCSRTiJhBE5GsP-1fCbpFRWg) - (Youtube Channel)
 - [Free Books on Robotics](https://github.com/StevenShiChina/books)
 
 
