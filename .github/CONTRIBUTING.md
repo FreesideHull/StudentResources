@@ -1,5 +1,5 @@
 ## Contributing <a name="contributing"></a>
-Freeside welcome contributions to these lists from staff and students at the University of Hull, as well as members of the public. If you wish to contribute, please abide by the following rules:
+Freeside welcomes contributions to these lists from staff and students at the University of Hull, as well as members of the public. If you wish to contribute, please abide by the following rules:
 
 - Fork the repository, look at the markdown and understand it. 
 - Make your changes and double check that nothing is broken.
