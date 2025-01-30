@@ -124,6 +124,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Privatebin](https://privatebin.net/) - Open-source pastebin client that can also be self-hosted.
 - [Ouroboros](https://github.com/pyouroboros/ouroboros) - Keep those docker containers up to date.
 - [TLDR Pages](https://tldr.sh/) - Simplified man pages.
+- [Free Comma Separator Tool](https://commaseparatortool.com/) - Convert TSV to CSV or CSV to TSV, format text to uppercase, lowercase, or capitalize each word. Includes a word and character counter for text analysis and many more features.
 - [Explain Command](https://www.mankier.com/explain) - A quick way to see what commands and their options do before running them.
 - [RefWorks](https://refworks.proquest.com/) - A reference manager with University of Hull standard support.
 - [Connected Papers](https://www.connectedpapers.com/) - Visualise an academic field and find similar papers.
