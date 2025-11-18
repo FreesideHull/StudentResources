@@ -179,6 +179,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [MIT Press: Reading code != Reading Language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 - [Andrew Hancock talks with Experts Exchange about Career Growth and VMware](https://www.experts-exchange.com/podcasts/5/Career-Growth-and-VMware.html)
 - [Andrew Hancock talks with Experts Exchange about being an IT Author and British Beekeeper](https://www.experts-exchange.com/podcasts/241/EP-19-Buzz-Words-IT-Author-and-Beekeeper-Andrew-Hancock.html)
+- [Corrupt a File Online](https://corruptafileonline.com) - Purposely Damage Your Files Instantly (It’s Weirdly Satisfying)
 
 
 ## Other pages
