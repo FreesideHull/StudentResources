@@ -128,6 +128,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 - [Explain Command](https://www.mankier.com/explain) - A quick way to see what commands and their options do before running them.
 - [RefWorks](https://refworks.proquest.com/) - A reference manager with University of Hull standard support.
 - [Connected Papers](https://www.connectedpapers.com/) - Visualise an academic field and find similar papers.
+- [ProBatchResizer](https://www.probatchresizer.com/) - Privacy first batch image resizer and converter that works locally in your browser. Resize, compress, and convert 100+ images without uploads.
 
 
 ## Educational Resources <a name="education"></a>
