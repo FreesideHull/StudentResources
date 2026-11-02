@@ -29,6 +29,7 @@ List originally comprised by [@closebracket](https://github.com/closebracket)
 ## Student Discount / Free stuff <a name="freestuff"></a>
 
 - [Github Student Pack](https://education.github.com/pack)
+- [Kilobat for Students](https://kilobat.app/students) - Free one-year Pro for two Macs for eligible students aged 13+ in degree-granting study; request and renew with a school email. macOS network monitor; no payment or account required.
 - [Microsoft Azure Dev Tools for Teaching](https://azure.microsoft.com/en-gb/free/students/) - FREE Microsoft licenses for Windows 10 and 11, Visual Studio and other Windows server operating systems, excludes Microsoft Office!
 - [VMware IT Academy Program](https://www.vmware.com/uk/company/it-academy.html)
 
